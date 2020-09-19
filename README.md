@@ -5,8 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 #Revision Version
 
 1.  master - fourth commitk
-2.  featureA - fifth commit
-3.  featureA - 6th commit
+2.  master - fifth commit
+3.  featureA - fifth commit
+4.  featureA - 6th commit
 
 ## Development server
 

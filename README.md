@@ -4,12 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 #Revision Version
 
-1.  master - fourth commitk
-2.  master - fifth commit
-3.  master - 6th commit
-4.  featureA - fifth commit
-5.  featureA - 6th commit
-6. Add
+1.  Branch: master - fourth commitk
+2.  Branch: master - fifth commit
+3.  Branch: master - 6th commit
+4.  Branch: featureA - fifth commit
+5.  Branch: featureA - 6th commit
+6.  Branch: Add
 
 
 ## Development server

@@ -10,6 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 4.  Branch: featureA - fifth commit
 5.  Branch: featureA - 6th commit
 6.  Branch: Add
+7.  Branch Feature B
 
 
 ## Development server
